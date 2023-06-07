@@ -1,0 +1,78 @@
+.navbar {
+  background-color: aqua;
+}
+
+.navbar-brand span {
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-left: 5px;
+}
+
+.dong__1,
+.dong__2 {
+  display: flex;
+}
+
+.dong__2 {
+  margin-top: 20px;
+}
+
+.diem__chuan {
+  margin-right: 250px;
+}
+
+.khu__vuc {
+  margin-right: 250px;
+}
+
+.diem__thu__1 {
+  margin-right: 250px;
+}
+
+.diem__thu__2 {
+  margin-right: 180px;
+}
+
+.btn {
+  margin: 10px;
+}
+
+.card-footer i {
+  font-size: 24px;
+  color: green;
+}
+
+.bai__2 {
+  display: flex;
+}
+
+.hoten,
+.sokw {
+  width: 50%;
+}
+
+.bai__3 {
+  display: flex;
+}
+
+.ho__va__ten,
+.thu__nhap,
+.nguoi__phu__thuoc {
+  width: 35%;
+}
+
+.bai__4 {
+  display: flex;
+}
+
+.khach__hang,
+.code__khach__hang,
+.so__kenh,
+.ket__noi {
+  width: 25%;
+}
+
+.ket__noi {
+  display: none;
+}
